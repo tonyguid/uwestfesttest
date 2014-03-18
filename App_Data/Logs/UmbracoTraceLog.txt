@@ -2187,3 +2187,10 @@ This session has been assigned a tracing ID of 'cd39a784-d0c1-4c69-a76c-eb4d6ce3
 2014-03-18 15:12:25,560 [35] INFO  Umbraco.Core.PluginManager - [Thread 15] Starting resolution types of umbraco.interfaces.IDataType
 2014-03-18 15:12:25,583 [35] INFO  Umbraco.Core.PluginManager - [Thread 15] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 22ms)
 2014-03-18 15:12:27,709 [35] INFO  umbraco.content - [Thread 15] Loading content from disk cache...
+2014-03-18 16:24:40,627 [35] INFO  Umbraco.Core.PluginManager - [Thread 30] Starting resolution types of umbraco.XsltExtensionAttribute
+2014-03-18 16:24:40,656 [35] INFO  Umbraco.Core.PluginManager - [Thread 30] Completed resolution of types of umbraco.XsltExtensionAttribute, found 0 (took 29ms)
+2014-03-18 16:38:11,632 [35] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 65] Content 'Simple website' with Id '1050' has been published.
+2014-03-18 16:38:14,343 [35] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-03-18 16:38:14,356 [35] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 22 (took 13ms)
+2014-03-18 16:39:18,673 [35] INFO  umbraco.cms.businesslogic.web.Document - [Thread 59] New document 1055
+2014-03-18 16:39:46,351 [35] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 59] Content 'About Windows Azure' with Id '1055' has been published.

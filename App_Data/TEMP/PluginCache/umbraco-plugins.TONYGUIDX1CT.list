@@ -207,4 +207,5 @@
   <baseType type="umbraco.BusinessLogic.Actions.IActionHandler" resolutionType="FindAllTypes">
     <add type="umbraco.ActionHandlers.umbEnsureUniqueName, umbraco, Version=1.0.5021.24870, Culture=neutral, PublicKeyToken=null" />
   </baseType>
+  <baseType type="umbraco.XsltExtensionAttribute" resolutionType="FindAttributedTypes" />
 </plugins>
