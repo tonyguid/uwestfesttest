@@ -149,4 +149,20 @@
       <file name="/umbraco_client/ui/default.js" />
     </files>
   </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOw" file="C:\git\Source\Repos\uwestfesttest\App_Data\TEMP\ClientDependency\2_b4ec847de1f64496a9bf0310e6907a0a.cdC" compression="gzip" version="2">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczs" file="C:\git\Source\Repos\uwestfesttest\App_Data\TEMP\ClientDependency\2_40d47bb05cf14290b312ab54c21a3b1f.cdJ" compression="gzip" version="2">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+    </files>
+  </item>
 </map>
